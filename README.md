@@ -1,3 +1,10 @@
+# Run by docker
+### Dev phase
+`docker-compose up`
+### Production phase using nginx
+`docker build -t <tag-name> . `
+`docker run -p yourport:3000 <tag-name>`
+
 # Dependencies
 ### express
 npm install express
