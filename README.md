@@ -5,3 +5,7 @@ npm install express
 npm install nodemon
 ### security: avoid malicious code from html/js/css
 npm install sanitize-html
+  
+  
+user: learn  
+passwd: javascript  
